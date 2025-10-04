@@ -5,6 +5,6 @@ package com.example.HelloWorldApp;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Word Energy Day!");
+        System.out.println("World Energy Day!");
     }
 }
